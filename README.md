@@ -10,7 +10,7 @@ To set up the project, follow these steps:
 
 1. Clone the repository:
    ```sh
-   git repo link https://github.ecodesamsung.com/SRIB-PRISM/CITB_24GAI08CITB_GenAI_Detect_AI_Generated_Text.git
+   git repo link https://github.com/Arghya-jain/GenAI-CNN.git
    ```
 2. From drive:
    - for the models that have been uploaded to drive.
