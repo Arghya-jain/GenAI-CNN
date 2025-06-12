@@ -1,0 +1,7 @@
+!!!Only if you are training the models
+pandas 
+numpy
+sklearn
+tensorflow
+datasets
+json
